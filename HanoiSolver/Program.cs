@@ -67,7 +67,7 @@ namespace HanoiSolver
 
 
 
-
+            // debugging section
             Console.WriteLine("---------");
             foreach (var item in towerLeft)
             {
